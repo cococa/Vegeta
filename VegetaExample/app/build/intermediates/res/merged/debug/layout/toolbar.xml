@@ -8,4 +8,4 @@
     app:popupTheme="?attr/actionBarPopupTheme"
     android:background="?attr/colorPrimary"
     android:id="@+id/toolbar"
-    /><!-- From: file:/Users/neofalcon/git_proj/GItRepos/PhotoPicker/PhotoPicker/src/main/res/layout/toolbar.xml --><!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/layout/toolbar.xml -->
+    /><!-- From: file:/Users/neofalcon/git_proj/GItRepos/PhotoPicker/PhotoPicker/src/main/res/layout/toolbar.xml --><!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/layout/toolbar.xml -->

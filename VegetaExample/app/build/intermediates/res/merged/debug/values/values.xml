@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -23,10 +23,10 @@
     <color name="background_floating_material_light">#ffeeeeee</color>
     <color name="background_material_dark">#ff303030</color>
     <color name="background_material_light">#ffeeeeee</color>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/values/values.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/values/values.xml -->
     <eat-comment/>
     <color name="black_40">#282828</color>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
     <eat-comment/>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
@@ -36,10 +36,10 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/values/values.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/values/values.xml -->
     <eat-comment/>
     <color name="common_primary">#f3f3f3</color>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
     <eat-comment/>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
@@ -56,10 +56,10 @@
     <color name="material_blue_grey_950">#ff21272b</color>
     <color name="material_deep_teal_200">#ff80cbc4</color>
     <color name="material_deep_teal_500">#ff009688</color>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/values/values.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/values/values.xml -->
     <eat-comment/>
     <color name="pager_bg">#CA000000</color>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
     <eat-comment/>
     <color name="primary_dark_material_dark">#ff000000</color>
     <color name="primary_dark_material_light">#ff757575</color>
@@ -75,16 +75,16 @@
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/values/values.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/values/values.xml -->
     <eat-comment/>
     <color name="selected_bg">#44000000</color>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
     <eat-comment/>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/values/values.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/values/values.xml -->
     <eat-comment/>
     <color name="text_120">#787878</color>
     <color name="text_40">#282828</color>
@@ -115,7 +115,7 @@
     <declare-styleable name="Toolbar"><attr format="reference" name="titleTextAppearance"/><attr format="reference" name="subtitleTextAppearance"/><attr name="title"/><attr name="subtitle"/><attr name="android:gravity"/><attr format="dimension" name="titleMargins"/><attr format="dimension" name="titleMarginStart"/><attr format="dimension" name="titleMarginEnd"/><attr format="dimension" name="titleMarginTop"/><attr format="dimension" name="titleMarginBottom"/><attr name="contentInsetStart"/><attr name="contentInsetEnd"/><attr name="contentInsetLeft"/><attr name="contentInsetRight"/><attr format="dimension" name="maxButtonHeight"/><attr format="reference" name="collapseIcon"/><attr format="string" name="collapseContentDescription"/><attr name="popupTheme"/><attr format="reference" name="navigationIcon"/><attr format="string" name="navigationContentDescription"/><attr name="android:minHeight"/></declare-styleable>
     <declare-styleable name="View"><attr format="dimension" name="paddingStart"/><attr format="dimension" name="paddingEnd"/><attr name="android:focusable"/><attr format="reference" name="theme"/><attr name="android:theme"/><attr format="color" name="backgroundTint"/><attr name="backgroundTintMode"><enum name="src_over" value="3"/><enum name="src_in" value="5"/><enum name="src_atop" value="9"/><enum name="multiply" value="14"/><enum name="screen" value="15"/></attr></declare-styleable>
     <declare-styleable name="ViewStubCompat"><attr name="android:layout"/><attr name="android:inflatedId"/><attr name="android:id"/></declare-styleable>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
     <eat-comment/>
     <dimen name="abc_action_bar_content_inset_material">16dp</dimen>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
@@ -177,14 +177,14 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/values/values.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/values/values.xml -->
     <eat-comment/>
     <dimen name="actionBarSize">48dip</dimen>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
     <eat-comment/>
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
     <item name="dialog_fixed_height_minor" type="dimen">100%</item>
@@ -192,14 +192,14 @@
     <item name="dialog_fixed_width_minor" type="dimen">320dp</item>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/values/values.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/values/values.xml -->
     <eat-comment/>
     <dimen name="item_camera_size">80dip</dimen>
     <dimen name="item_photo_size">80dip</dimen>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/res/values/values.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
     <eat-comment/>
     <dimen name="notification_large_icon_height">64dp</dimen>
     <dimen name="notification_large_icon_width">64dp</dimen>
@@ -210,10 +210,10 @@
     <item name="action_menu_divider" type="id"/>
     <item name="action_menu_presenter" type="id"/>
     <item name="home" type="id"/>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/res/values/values.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <item name="item_touch_helper_previous_elevation" type="id"/>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
     <eat-comment/>
     <item name="progress_circular" type="id"/>
     <item name="progress_horizontal" type="id"/>
@@ -241,16 +241,16 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="action_settings">Settings</string>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/values/values.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/values/values.xml -->
     <eat-comment/>
     <string name="all_image">All Image</string>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">VegetaExample</string>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/values/values.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/values/values.xml -->
     <eat-comment/>
     <string name="cancel">Cancel</string>
     <string name="confirm_to_delete">Confirm to delete?</string>
@@ -258,33 +258,33 @@
     <string name="deleted_a_photo">Deleted a photo</string>
     <string name="done">Done</string>
     <string name="done_with_count">Done(%1$d/%2$d)</string>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="hello_world">Hello world!</string>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/values/values.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/values/values.xml -->
     <eat-comment/>
     <string name="image_index">%1$d/%2$d</string>
     <string name="images">Images</string>
     <string name="over_max_count_tips">Up to %1$d photos can be selected</string>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
     <eat-comment/>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/values/values.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/values/values.xml -->
     <eat-comment/>
     <string name="undo">Undo</string>
     <string name="yes">Yes</string>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
     <eat-comment/>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
     </style>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>

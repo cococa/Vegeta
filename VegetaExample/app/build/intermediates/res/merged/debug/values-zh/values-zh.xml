@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/values-zh/values-zh.xml -->
+    <!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/values-zh/values-zh.xml -->
     <eat-comment/>
     <string name="all_image">所有图片</string>
     <string name="cancel">取消</string>

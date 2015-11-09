@@ -4,4 +4,4 @@
   <item android:state_pressed="true" android:drawable="@drawable/ic_camera_black_48dp" />
   <item android:drawable="@drawable/ic_camera_grey600_48dp" />
 
-</selector><!-- From: file:/Users/neofalcon/git_proj/GItRepos/PhotoPicker/PhotoPicker/src/main/res/drawable/camera.xml --><!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/app/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/drawable/camera.xml -->
+</selector><!-- From: file:/Users/neofalcon/git_proj/GItRepos/PhotoPicker/PhotoPicker/src/main/res/drawable/camera.xml --><!-- From: file:/G:/my_github/Vegeta/VegetaExample/app/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/drawable/camera.xml -->
