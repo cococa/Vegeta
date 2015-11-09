@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\Desktop\VegetaExample\app\build\intermediates\exploded-aar\VegetaExample\vegeta\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2df8b0b4725255e11ba6b64b10c220f45882fb05">
+        <dex dex="C:\Users\Administrator\Desktop\VegetaExample\app\build\intermediates\pre-dexed\debug\classes-d7a9368f570a7e83f6340f9ceb5853d9370635bb.jar" />
+    </item>
+
+</items>

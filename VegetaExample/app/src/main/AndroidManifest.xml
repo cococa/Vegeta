@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cocoa.vegetaexample" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="me.iwf.photopicker.PhotoPickerActivity"
+                  android:theme="@style/Theme.AppCompat.NoActionBar"
+            />
+
+        <activity android:name="me.iwf.photopicker.PhotoPagerActivity"
+                  android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity android:name=".activity.TestActivity"/>
+        <activity android:name=".activity.AliOssActivity"/>
+        <activity android:name=".activity.GlideActivity"/>
+        <activity android:name=".activity.OKhttpActivity"/>
+        <activity android:name=".activity.ClearTopActivity"/>
+        <activity android:name=".activity.ClearTopActivity1"/>
+        <activity android:name=".activity.NetworkListenerActivity"/>
+
+        <meta-data
+            android:name="com.alibaba.app.ossak"
+            android:value="STS.CAES4gIIARKAARVgoAv3sxdKs4Qraf2O7kL9HtHt5L9rFxR8TODRRTrjjhakt0lhmsu0w4majq9YuCvkKxkrRGRvUSX5/KJKlYBgbmKHkibOhdRMxduKHBhy5UFzRgOvqoi53BPjMYiHg2NaGIDyZNeTxRt+17flKWN7+AyeBp+rVOiPxgwnfqWqGhhTVFMueXF3RUtkeXpFcGdjMWZ5bzN5M1YiEjM2NTcxNDA0MjgxNDMzMDQzMCoIYXBwLXJ1bGUwpOP4o/8pOgZSc2FNRDVCSgoBMRpFCgVBbGxvdxIbCgxBY3Rpb25FcXVhbHMSBkFjdGlvbhoDCgEqEh8KDlJlc291cmNlRXF1YWxzEghSZXNvdXJjZRoDCgEqShAxODUzODU1MDI5MjEwNjEzUgUyNjg0MloPQXNzdW1lZFJvbGVVc2VyYABqEjM2NTcxNDA0MjgxNDMzMDQzMHIIYXBwLXJ1bGU="></meta-data>
+        <meta-data
+            android:name="com.alibaba.app.osssk"
+            android:value="iKKRTy1dVD2HcTI1YCcYDPe2CgA7zP5cbMQsI24c"
+            />
+        <meta-data
+            android:name="com.alibaba.app.ossbucketname"
+            android:value="cars-img"></meta-data>
+        <receiver android:name=".util.MyReceiver">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+                <action android:name="android.net.wifi.WIFI_STATE_CHANGED" />
+            </intent-filter>
+        </receiver>
+
+
+
+
+    </application>
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true"/>
+
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"></uses-permission>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>
+
+</manifest>

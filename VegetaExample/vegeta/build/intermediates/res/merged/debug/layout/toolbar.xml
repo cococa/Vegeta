@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="?attr/actionBarSize"
+    app:theme="?attr/actionBarTheme"
+    app:popupTheme="?attr/actionBarPopupTheme"
+    android:background="?attr/colorPrimary"
+    android:id="@+id/toolbar"
+    /><!-- From: file:/Users/neofalcon/git_proj/GItRepos/PhotoPicker/PhotoPicker/src/main/res/layout/toolbar.xml --><!-- From: file:/C:/Users/Administrator/Desktop/VegetaExample/vegeta/build/intermediates/exploded-aar/me.iwf.photopicker/PhotoPicker/0.2.7/res/layout/toolbar.xml -->
