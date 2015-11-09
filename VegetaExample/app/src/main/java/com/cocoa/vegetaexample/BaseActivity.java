@@ -12,6 +12,7 @@ public abstract class BaseActivity extends FragmentActivity {
 
    public abstract void onNetChanged(String status);
 
+   //add new
    @Override
    protected void onCreate(Bundle savedInstanceState) {
       super.onCreate(savedInstanceState);
