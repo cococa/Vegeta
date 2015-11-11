@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<declare-styleable name="simpleDialogs">-->
+        <!--<attr name="simpleDialogStyle" format="reference" />-->
+    <!--</declare-styleable>-->
+
+    <declare-styleable name="simpleDialog">
+        <attr name="simepleDialogBG" format="color|reference" />
+        <attr name="simepleDialogTitleSize" format="dimension|reference" />
+        <attr name="simepleDialogTitleColor" format="color|reference" />
+        <attr name="simepleDialogMsgSize" format="dimension|reference" />
+        <attr name="simepleDialogMsgColor" format="color|reference" />
+    </declare-styleable>
+</resources>

@@ -1,15 +1,13 @@
 package com.cocoa.vegetaexample.activity;
 
 import android.content.Intent;
-import android.content.IntentFilter;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
 import com.cocoa.vegetaexample.BaseActivity;
 import com.cocoa.vegetaexample.R;
-import com.cocoa.vegetaexample.util.AppManager;
-import com.cocoa.vegetaexample.util.MyReceiver;
+import com.android.vageta.expand.AppManager;
 
 
 public class NetworkListenerActivity extends BaseActivity {

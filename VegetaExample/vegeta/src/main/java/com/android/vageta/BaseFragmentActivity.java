@@ -13,22 +13,13 @@ import android.support.v4.app.FragmentActivity;
 public abstract class BaseFragmentActivity extends FragmentActivity {
 
     public Context mContext;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         mContext = this;
     }
 
-    public abstract  void initViews();
-
-
-//    public void postAsync(IHttp iHttp ,HttpCallback callback){
-//        iHttp.postAsync(callback);
-//    }
-
-
-
-
-
+    public abstract void onNetChanged(String status);
 
 }

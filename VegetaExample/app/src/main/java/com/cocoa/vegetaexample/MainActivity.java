@@ -3,6 +3,7 @@ package com.cocoa.vegetaexample;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
+
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -15,11 +16,12 @@ import android.widget.TextView;
 
 import com.cocoa.vegetaexample.activity.AliOssActivity;
 import com.cocoa.vegetaexample.activity.ClearTopActivity;
+import com.cocoa.vegetaexample.activity.DialogActivity;
 import com.cocoa.vegetaexample.activity.GlideActivity;
 import com.cocoa.vegetaexample.activity.NetworkListenerActivity;
 import com.cocoa.vegetaexample.activity.OKhttpActivity;
 import com.cocoa.vegetaexample.activity.TestActivity;
-import com.cocoa.vegetaexample.util.AppManager;
+import com.android.vageta.expand.AppManager;
 
 import java.util.Timer;
 import java.util.TimerTask;
@@ -33,7 +35,7 @@ public class MainActivity extends BaseActivity {
     private TimerTask task;
     private ListView listView ;
     private LayoutInflater inflate;
-    private Class[] activityNameArray ={TestActivity.class,AliOssActivity.class,GlideActivity.class,OKhttpActivity.class, ClearTopActivity.class,NetworkListenerActivity.class};
+    private Class[] activityNameArray ={TestActivity.class,AliOssActivity.class,GlideActivity.class,OKhttpActivity.class, ClearTopActivity.class,NetworkListenerActivity.class, DialogActivity.class};
     private String name;
 
 
@@ -43,7 +45,9 @@ public class MainActivity extends BaseActivity {
         setContentView(R.layout.activity_main);
         inflate= LayoutInflater.from(this);
         name = getIntent().getStringExtra("name");
-        Log.e("---------",name+"------------");
+        if(BuildConfig.DEBUG) {
+            Log.e("---------", name + "------------");
+        }
         listView = (ListView) findViewById(R.id.main_listview);
         listView.setAdapter(new MainAdapter());
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {

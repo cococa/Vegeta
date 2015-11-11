@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DefaultSimpleDialog">
+        <item name="simepleDialogBG">@color/white</item>
+        <item name="simepleDialogTitleSize">18sp</item>
+        <item name="simepleDialogTitleColor">@color/black_de</item>
+
+        <item name="simepleDialogMsgColor">#8a000000</item>
+        <item name="simepleDialogMsgSize">16sp</item>
+    </style>
+
+</resources>

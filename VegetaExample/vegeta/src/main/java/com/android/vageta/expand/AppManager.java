@@ -1,8 +1,10 @@
-package com.cocoa.vegetaexample.util;
+package com.android.vageta.expand;
 
 import android.content.Context;
 
-import com.cocoa.vegetaexample.BaseActivity;
+
+
+import com.android.vageta.BaseFragmentActivity;
 
 import java.util.Stack;
 
@@ -14,25 +16,26 @@ public enum AppManager {
 
     INSTANCE;
 
-    private static Stack<BaseActivity> activityStack;
+    private static Stack<BaseFragmentActivity> activityStack;
 
     private AppManager() {
+
     }
 
     /**
      * 添加Activity到堆栈
      */
-    public void addActivity(BaseActivity activity) {
+    public void addActivity(BaseFragmentActivity activity) {
         if (activityStack == null) {
-            activityStack = new Stack<BaseActivity>();
+            activityStack = new Stack<BaseFragmentActivity>();
         }
         activityStack.add(activity);
     }
 
 
-    public BaseActivity getLastActivity() {
+    public BaseFragmentActivity getLastActivity() {
         if (activityStack == null) {
-            activityStack = new Stack<BaseActivity>();
+            activityStack = new Stack<BaseFragmentActivity>();
         }
         return activityStack.lastElement();
     }
@@ -41,8 +44,8 @@ public enum AppManager {
     /**
      * 获取当前Activity（堆栈中最后一个压入的）
      */
-    public BaseActivity currentActivity() {
-        BaseActivity activity = activityStack.lastElement();
+    public BaseFragmentActivity currentActivity() {
+        BaseFragmentActivity activity = activityStack.lastElement();
         return activity;
     }
 
@@ -50,14 +53,14 @@ public enum AppManager {
      * 结束当前Activity（堆栈中最后一个压入的）
      */
     public void finishActivity() {
-        BaseActivity activity = activityStack.lastElement();
+        BaseFragmentActivity activity = activityStack.lastElement();
         finishActivity(activity);
     }
 
     /**
      * 结束指定的Activity
      */
-    public void finishActivity(BaseActivity activity) {
+    public void finishActivity(BaseFragmentActivity activity) {
         if (activity != null) {
             activityStack.remove(activity);
             activity.finish();
@@ -69,7 +72,7 @@ public enum AppManager {
      * 结束指定类名的Activity
      */
     public void finishActivity(Class<?> cls) {
-        for (BaseActivity activity : activityStack) {
+        for (BaseFragmentActivity activity : activityStack) {
             if (activity.getClass().equals(cls)) {
                 finishActivity(activity);
             }

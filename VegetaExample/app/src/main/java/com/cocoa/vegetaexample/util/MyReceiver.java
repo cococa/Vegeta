@@ -3,9 +3,8 @@ package com.cocoa.vegetaexample.util;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
-import android.net.ConnectivityManager;
-import android.net.NetworkInfo;
-import android.widget.Toast;
+
+import com.android.vageta.expand.AppManager;
 
 /**
  * Created by cocoa on 2015/11/5.15:29
