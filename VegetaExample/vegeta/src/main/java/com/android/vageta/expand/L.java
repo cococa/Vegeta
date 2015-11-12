@@ -14,7 +14,7 @@ public class L {
 
     public static boolean isDebug = BuildConfig.DEBUG;
 
-    public static String TAG = "vegeta_tag";
+    public static final String TAG = "chemao";
 
     public static void v(String msg) {
         if (isDebug)

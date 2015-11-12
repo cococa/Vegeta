@@ -1,5 +1,6 @@
 package com.cocoa.vegetaexample.activity;
 
+import android.content.ComponentName;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -46,6 +47,14 @@ public class DialogActivity extends BaseActivity {
                     });
 
                     mMaterialDialog.show();
+
+// activtiyCheck
+
+//                    Intent intent = new Intent(Intent.ACTION_XXX);
+//                    ComponentName componentName = intent.resolveActivity(getPackageManager());
+//                    if(componentName != null) {
+//                    String className = componentName.getClassName();
+//                    }
                 }
             }
         });
