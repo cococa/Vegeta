@@ -30,6 +30,7 @@
         <activity android:name=".activity.ClearTopActivity1"/>
         <activity android:name=".activity.NetworkListenerActivity"/>
         <activity android:name=".activity.DialogActivity"/>
+        <activity android:name=".activity.CompressImgActivity"/>
 
         <meta-data
             android:name="com.alibaba.app.ossak"

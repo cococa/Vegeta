@@ -16,6 +16,7 @@ import android.widget.TextView;
 
 import com.cocoa.vegetaexample.activity.AliOssActivity;
 import com.cocoa.vegetaexample.activity.ClearTopActivity;
+import com.cocoa.vegetaexample.activity.CompressImgActivity;
 import com.cocoa.vegetaexample.activity.DialogActivity;
 import com.cocoa.vegetaexample.activity.GlideActivity;
 import com.cocoa.vegetaexample.activity.NetworkListenerActivity;
@@ -35,7 +36,7 @@ public class MainActivity extends BaseActivity {
     private TimerTask task;
     private ListView listView ;
     private LayoutInflater inflate;
-    private Class[] activityNameArray ={TestActivity.class,AliOssActivity.class,GlideActivity.class,OKhttpActivity.class, ClearTopActivity.class,NetworkListenerActivity.class, DialogActivity.class};
+    private Class[] activityNameArray ={TestActivity.class,AliOssActivity.class,GlideActivity.class,OKhttpActivity.class, ClearTopActivity.class,NetworkListenerActivity.class, DialogActivity.class,CompressImgActivity.class};
     private String name;
 
 
